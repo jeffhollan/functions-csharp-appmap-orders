@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessor", "OrderProcessor\OrderProcessor.csproj", "{F4BB7FFA-273D-4B32-B3E4-69F5FA28F2A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BB7FFA-273D-4B32-B3E4-69F5FA28F2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BB7FFA-273D-4B32-B3E4-69F5FA28F2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BB7FFA-273D-4B32-B3E4-69F5FA28F2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BB7FFA-273D-4B32-B3E4-69F5FA28F2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE683BCB-847A-4C0F-84E9-BF04269A5334}
+	EndGlobalSection
+EndGlobal
